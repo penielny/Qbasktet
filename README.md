@@ -6,6 +6,7 @@ simple and clean YouTube downloader
 2. Launch index.exe
 3. Paste url in the input fieled
 4. hit the buton next to the input field
-5. select media type to download 
-`done`
- `Email : penielnyinaku@gmail.com`
+5. select media type to download `done`
+
+#
+ Email : `penielnyinaku@gmail.com`
